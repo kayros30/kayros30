@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m @kayros30
 - 👀 I’m interested in **[Your Interests, e.g., data analysis, machine learning, fitness]**
 - 🌱 I’m currently learning **[What you're learning, e.g., Python, deep learning, yoga]**
