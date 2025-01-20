@@ -1,6 +1,3 @@
-Great start, @kayros30! Let's fill in those sections to make your profile stand out:
-
----
 
 - 👋 Hi, I’m @kayros30
 - 👀 I’m interested in **[Your Interests, e.g., data analysis, machine learning, fitness]**
